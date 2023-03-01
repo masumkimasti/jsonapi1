@@ -2,259 +2,246 @@
     "total_size": 6,
     "type_id": 2,
     "offset": 0,
-    "Delhi":{
-        "lat":28.644800,
-        "log":77.216721,
-        "spots": [
-            {
-                "id": 1,
-                "name": "Viva Sports",
-                "description": "Flaky and crunchy fried samosa are one of the most popular street food snack in North Indian cuisine. They feature a pastry-like crust but are filled with savory potatoes and peas for a hearty, delicious snack. This step-by-step recipe guide will help you to make the flakiest, tastiest, absolutely best Punjabi Samosa or Aloo Samosa from scratch!",
-                "price": 20,
-                "stars": 5,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food1_axxelx.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"
-            },
-            {
-                "id": 2,
-                "name": "Kriket King",
-                "description": "The most desirable pieces of chicken bathed in a spicy red paste and fried to a succulent, crispy Chicken Lollipop, is an easy win at any party.They taste as good as they look! The crunch at each bite and the tenderness at each mouthful makes you want to take one more; it is no exaggeration. It never is enough!",
-                "price": 200,
-                "stars": 4,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food2_mzgi8u.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "nonveg"
-            },
-            {
-                "id": 3,
-                "name": "SAR Sports Arena",
-                "description": "Dabeli, kutchi dabeli or double roti is a popular snack food of India, originating in the Kutch or Kachchh region of Gujarat. It is a sweet snack made by mixing boiled potatoes with a special dabeli masala, putting the mixture in a ladi pav (burger bun), and serving it with chutneys made from tamarind, date, garlic, red chilies and other ingredients. It is garnished with pomegranate and roasted peanuts.",
-                "price": 20,
-                "stars": 4,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159840/Eateria/food3_rigjvm.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"  
-            },
-            {
-                "id": 4,
-                "name": "Delhi Box Cricket Academy",
-                "description": "Vada pav, alternatively spelt wada pao, (listen) is a vegetarian fast food dish native to the state of Maharashtra. The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chili pepper.Although it originated as an affordable street food in Mumbai, it is now served in food stalls and restaurants across India. It is also called Bombay burger in keeping with its origins and its resemblance in physical form to a burger.",
-                "price": 15,
-                "stars": 5,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159843/Eateria/food4_qxhnhg.webp",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"
-            }
-            
-        ]
-    },
-    "Mumbai":{
-        "lat":19.076090,
-        "log":72.877426,
-        "spots": [
-            {
-                "id": 1,
-                "name": "Viva Sports",
-                "description": "Flaky and crunchy fried samosa are one of the most popular street food snack in North Indian cuisine. They feature a pastry-like crust but are filled with savory potatoes and peas for a hearty, delicious snack. This step-by-step recipe guide will help you to make the flakiest, tastiest, absolutely best Punjabi Samosa or Aloo Samosa from scratch!",
-                "price": 20,
-                "stars": 5,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food1_axxelx.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"
-            },
-            {
-                "id": 2,
-                "name": "Kriket King",
-                "description": "The most desirable pieces of chicken bathed in a spicy red paste and fried to a succulent, crispy Chicken Lollipop, is an easy win at any party.They taste as good as they look! The crunch at each bite and the tenderness at each mouthful makes you want to take one more; it is no exaggeration. It never is enough!",
-                "price": 200,
-                "stars": 4,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food2_mzgi8u.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "nonveg"
-            },
-            {
-                "id": 3,
-                "name": "SAR Sports Arena",
-                "description": "Dabeli, kutchi dabeli or double roti is a popular snack food of India, originating in the Kutch or Kachchh region of Gujarat. It is a sweet snack made by mixing boiled potatoes with a special dabeli masala, putting the mixture in a ladi pav (burger bun), and serving it with chutneys made from tamarind, date, garlic, red chilies and other ingredients. It is garnished with pomegranate and roasted peanuts.",
-                "price": 20,
-                "stars": 4,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159840/Eateria/food3_rigjvm.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"  
-            },
-            {
-                "id": 4,
-                "name": "Delhi Box Cricket Academy",
-                "description": "Vada pav, alternatively spelt wada pao, (listen) is a vegetarian fast food dish native to the state of Maharashtra. The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chili pepper.Although it originated as an affordable street food in Mumbai, it is now served in food stalls and restaurants across India. It is also called Bombay burger in keeping with its origins and its resemblance in physical form to a burger.",
-                "price": 15,
-                "stars": 5,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159843/Eateria/food4_qxhnhg.webp",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"
-            }
-            
-        ]
-    },
-    "Surat":{
-        "lat":0,
-        "log":0,
-        "spots": [
-            {
-                "id": 1,
-                "name": "Viva Sports",
-                "description": "Flaky and crunchy fried samosa are one of the most popular street food snack in North Indian cuisine. They feature a pastry-like crust but are filled with savory potatoes and peas for a hearty, delicious snack. This step-by-step recipe guide will help you to make the flakiest, tastiest, absolutely best Punjabi Samosa or Aloo Samosa from scratch!",
-                "price": 20,
-                "stars": 5,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food1_axxelx.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"
-            },
-            {
-                "id": 2,
-                "name": "Kriket King",
-                "description": "The most desirable pieces of chicken bathed in a spicy red paste and fried to a succulent, crispy Chicken Lollipop, is an easy win at any party.They taste as good as they look! The crunch at each bite and the tenderness at each mouthful makes you want to take one more; it is no exaggeration. It never is enough!",
-                "price": 200,
-                "stars": 4,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food2_mzgi8u.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "nonveg"
-            },
-            {
-                "id": 3,
-                "name": "SAR Sports Arena",
-                "description": "Dabeli, kutchi dabeli or double roti is a popular snack food of India, originating in the Kutch or Kachchh region of Gujarat. It is a sweet snack made by mixing boiled potatoes with a special dabeli masala, putting the mixture in a ladi pav (burger bun), and serving it with chutneys made from tamarind, date, garlic, red chilies and other ingredients. It is garnished with pomegranate and roasted peanuts.",
-                "price": 20,
-                "stars": 4,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159840/Eateria/food3_rigjvm.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"  
-            },
-            {
-                "id": 4,
-                "name": "Delhi Box Cricket Academy",
-                "description": "Vada pav, alternatively spelt wada pao, (listen) is a vegetarian fast food dish native to the state of Maharashtra. The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chili pepper.Although it originated as an affordable street food in Mumbai, it is now served in food stalls and restaurants across India. It is also called Bombay burger in keeping with its origins and its resemblance in physical form to a burger.",
-                "price": 15,
-                "stars": 5,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159843/Eateria/food4_qxhnhg.webp",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"
-            }
-            
-        ]
-    },
-    "Ahmedabad":{
-        "lat":23.033863,
-        "log":72.585022,
-        "spots": [
-            {
-                "id": 1,
-                "name": "Viva Sports",
-                "description": "Flaky and crunchy fried samosa are one of the most popular street food snack in North Indian cuisine. They feature a pastry-like crust but are filled with savory potatoes and peas for a hearty, delicious snack. This step-by-step recipe guide will help you to make the flakiest, tastiest, absolutely best Punjabi Samosa or Aloo Samosa from scratch!",
-                "price": 20,
-                "stars": 5,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food1_axxelx.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"
-            },
-            {
-                "id": 2,
-                "name": "Kriket King",
-                "description": "The most desirable pieces of chicken bathed in a spicy red paste and fried to a succulent, crispy Chicken Lollipop, is an easy win at any party.They taste as good as they look! The crunch at each bite and the tenderness at each mouthful makes you want to take one more; it is no exaggeration. It never is enough!",
-                "price": 200,
-                "stars": 4,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food2_mzgi8u.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "nonveg"
-            },
-            {
-                "id": 3,
-                "name": "SAR Sports Arena",
-                "description": "Dabeli, kutchi dabeli or double roti is a popular snack food of India, originating in the Kutch or Kachchh region of Gujarat. It is a sweet snack made by mixing boiled potatoes with a special dabeli masala, putting the mixture in a ladi pav (burger bun), and serving it with chutneys made from tamarind, date, garlic, red chilies and other ingredients. It is garnished with pomegranate and roasted peanuts.",
-                "price": 20,
-                "stars": 4,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159840/Eateria/food3_rigjvm.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"  
-            },
-            {
-                "id": 4,
-                "name": "Delhi Box Cricket Academy",
-                "description": "Vada pav, alternatively spelt wada pao, (listen) is a vegetarian fast food dish native to the state of Maharashtra. The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chili pepper.Although it originated as an affordable street food in Mumbai, it is now served in food stalls and restaurants across India. It is also called Bombay burger in keeping with its origins and its resemblance in physical form to a burger.",
-                "price": 15,
-                "stars": 5,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159843/Eateria/food4_qxhnhg.webp",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"
-            }
-            
-        ]
-    },
-    "Kanpur":{
-        "lat":26.449923,
-        "log":80.331871,
-        "spots": [
-            {
-                "id": 1,
-                "name": "Viva Sports",
-                "description": "Flaky and crunchy fried samosa are one of the most popular street food snack in North Indian cuisine. They feature a pastry-like crust but are filled with savory potatoes and peas for a hearty, delicious snack. This step-by-step recipe guide will help you to make the flakiest, tastiest, absolutely best Punjabi Samosa or Aloo Samosa from scratch!",
-                "price": 20,
-                "stars": 5,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food1_axxelx.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"
-            },
-            {
-                "id": 2,
-                "name": "Kriket King",
-                "description": "The most desirable pieces of chicken bathed in a spicy red paste and fried to a succulent, crispy Chicken Lollipop, is an easy win at any party.They taste as good as they look! The crunch at each bite and the tenderness at each mouthful makes you want to take one more; it is no exaggeration. It never is enough!",
-                "price": 200,
-                "stars": 4,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food2_mzgi8u.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "nonveg"
-            },
-            {
-                "id": 3,
-                "name": "SAR Sports Arena",
-                "description": "Dabeli, kutchi dabeli or double roti is a popular snack food of India, originating in the Kutch or Kachchh region of Gujarat. It is a sweet snack made by mixing boiled potatoes with a special dabeli masala, putting the mixture in a ladi pav (burger bun), and serving it with chutneys made from tamarind, date, garlic, red chilies and other ingredients. It is garnished with pomegranate and roasted peanuts.",
-                "price": 20,
-                "stars": 4,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159840/Eateria/food3_rigjvm.jpg",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"  
-            },
-            {
-                "id": 4,
-                "name": "Delhi Box Cricket Academy",
-                "description": "Vada pav, alternatively spelt wada pao, (listen) is a vegetarian fast food dish native to the state of Maharashtra. The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chili pepper.Although it originated as an affordable street food in Mumbai, it is now served in food stalls and restaurants across India. It is also called Bombay burger in keeping with its origins and its resemblance in physical form to a burger.",
-                "price": 15,
-                "stars": 5,
-                "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159843/Eateria/food4_qxhnhg.webp",
-                "location": "Canada, British Columbia",
-                "type_id": 2,
-                "vegNonVeg": "veg"
-            }
-            
-        ]
-    }
+    "city": [
+        {
+            "id": 1,
+            "location": "Delhi",
+            "lat": 28.6448,
+            "log": 77.216721,
+            "spots": [
+                {
+                    "id": 1,
+                    "name": "Viva Sports",
+                    "description": "Flaky and crunchy fried samosa are one of the most popular street food snack in North Indian cuisine. They feature a pastry-like crust but are filled with savory potatoes and peas for a hearty, delicious snack. This step-by-step recipe guide will help you to make the flakiest, tastiest, absolutely best Punjabi Samosa or Aloo Samosa from scratch!",
+                    "price": 20,
+                    "stars": 5,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food1_axxelx.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 2,
+                    "name": "Kriket King",
+                    "description": "The most desirable pieces of chicken bathed in a spicy red paste and fried to a succulent, crispy Chicken Lollipop, is an easy win at any party.They taste as good as they look! The crunch at each bite and the tenderness at each mouthful makes you want to take one more; it is no exaggeration. It never is enough!",
+                    "price": 200,
+                    "stars": 4,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food2_mzgi8u.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 3,
+                    "name": "SAR Sports Arena",
+                    "description": "Dabeli, kutchi dabeli or double roti is a popular snack food of India, originating in the Kutch or Kachchh region of Gujarat. It is a sweet snack made by mixing boiled potatoes with a special dabeli masala, putting the mixture in a ladi pav (burger bun), and serving it with chutneys made from tamarind, date, garlic, red chilies and other ingredients. It is garnished with pomegranate and roasted peanuts.",
+                    "price": 20,
+                    "stars": 4,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159840/Eateria/food3_rigjvm.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 4,
+                    "name": "Delhi Box Cricket Academy",
+                    "description": "Vada pav, alternatively spelt wada pao, (listen) is a vegetarian fast food dish native to the state of Maharashtra. The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chili pepper.Although it originated as an affordable street food in Mumbai, it is now served in food stalls and restaurants across India. It is also called Bombay burger in keeping with its origins and its resemblance in physical form to a burger.",
+                    "price": 15,
+                    "stars": 5,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159843/Eateria/food4_qxhnhg.webp",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "location": "Mumbai",
+            "lat": 19.07609,
+            "log": 72.877426,
+            "spots": [
+                {
+                    "id": 1,
+                    "name": "Viva Sports",
+                    "description": "Flaky and crunchy fried samosa are one of the most popular street food snack in North Indian cuisine. They feature a pastry-like crust but are filled with savory potatoes and peas for a hearty, delicious snack. This step-by-step recipe guide will help you to make the flakiest, tastiest, absolutely best Punjabi Samosa or Aloo Samosa from scratch!",
+                    "price": 20,
+                    "stars": 5,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food1_axxelx.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 2,
+                    "name": "Kriket King",
+                    "description": "The most desirable pieces of chicken bathed in a spicy red paste and fried to a succulent, crispy Chicken Lollipop, is an easy win at any party.They taste as good as they look! The crunch at each bite and the tenderness at each mouthful makes you want to take one more; it is no exaggeration. It never is enough!",
+                    "price": 200,
+                    "stars": 4,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food2_mzgi8u.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 3,
+                    "name": "SAR Sports Arena",
+                    "description": "Dabeli, kutchi dabeli or double roti is a popular snack food of India, originating in the Kutch or Kachchh region of Gujarat. It is a sweet snack made by mixing boiled potatoes with a special dabeli masala, putting the mixture in a ladi pav (burger bun), and serving it with chutneys made from tamarind, date, garlic, red chilies and other ingredients. It is garnished with pomegranate and roasted peanuts.",
+                    "price": 20,
+                    "stars": 4,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159840/Eateria/food3_rigjvm.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 4,
+                    "name": "Delhi Box Cricket Academy",
+                    "description": "Vada pav, alternatively spelt wada pao, (listen) is a vegetarian fast food dish native to the state of Maharashtra. The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chili pepper.Although it originated as an affordable street food in Mumbai, it is now served in food stalls and restaurants across India. It is also called Bombay burger in keeping with its origins and its resemblance in physical form to a burger.",
+                    "price": 15,
+                    "stars": 5,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159843/Eateria/food4_qxhnhg.webp",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "location": "Surat",
+            "lat": 0,
+            "log": 0,
+            "spots": [
+                {
+                    "id": 1,
+                    "name": "Viva Sports",
+                    "description": "Flaky and crunchy fried samosa are one of the most popular street food snack in North Indian cuisine. They feature a pastry-like crust but are filled with savory potatoes and peas for a hearty, delicious snack. This step-by-step recipe guide will help you to make the flakiest, tastiest, absolutely best Punjabi Samosa or Aloo Samosa from scratch!",
+                    "price": 20,
+                    "stars": 5,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food1_axxelx.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 2,
+                    "name": "Kriket King",
+                    "description": "The most desirable pieces of chicken bathed in a spicy red paste and fried to a succulent, crispy Chicken Lollipop, is an easy win at any party.They taste as good as they look! The crunch at each bite and the tenderness at each mouthful makes you want to take one more; it is no exaggeration. It never is enough!",
+                    "price": 200,
+                    "stars": 4,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food2_mzgi8u.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 3,
+                    "name": "SAR Sports Arena",
+                    "description": "Dabeli, kutchi dabeli or double roti is a popular snack food of India, originating in the Kutch or Kachchh region of Gujarat. It is a sweet snack made by mixing boiled potatoes with a special dabeli masala, putting the mixture in a ladi pav (burger bun), and serving it with chutneys made from tamarind, date, garlic, red chilies and other ingredients. It is garnished with pomegranate and roasted peanuts.",
+                    "price": 20,
+                    "stars": 4,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159840/Eateria/food3_rigjvm.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 4,
+                    "name": "Delhi Box Cricket Academy",
+                    "description": "Vada pav, alternatively spelt wada pao, (listen) is a vegetarian fast food dish native to the state of Maharashtra. The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chili pepper.Although it originated as an affordable street food in Mumbai, it is now served in food stalls and restaurants across India. It is also called Bombay burger in keeping with its origins and its resemblance in physical form to a burger.",
+                    "price": 15,
+                    "stars": 5,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159843/Eateria/food4_qxhnhg.webp",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "location": "Ahmedabad",
+            "lat": 23.033863,
+            "log": 72.585022,
+            "spots": [
+                {
+                    "id": 1,
+                    "name": "Viva Sports",
+                    "description": "Flaky and crunchy fried samosa are one of the most popular street food snack in North Indian cuisine. They feature a pastry-like crust but are filled with savory potatoes and peas for a hearty, delicious snack. This step-by-step recipe guide will help you to make the flakiest, tastiest, absolutely best Punjabi Samosa or Aloo Samosa from scratch!",
+                    "price": 20,
+                    "stars": 5,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food1_axxelx.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 2,
+                    "name": "Kriket King",
+                    "description": "The most desirable pieces of chicken bathed in a spicy red paste and fried to a succulent, crispy Chicken Lollipop, is an easy win at any party.They taste as good as they look! The crunch at each bite and the tenderness at each mouthful makes you want to take one more; it is no exaggeration. It never is enough!",
+                    "price": 200,
+                    "stars": 4,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food2_mzgi8u.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 3,
+                    "name": "SAR Sports Arena",
+                    "description": "Dabeli, kutchi dabeli or double roti is a popular snack food of India, originating in the Kutch or Kachchh region of Gujarat. It is a sweet snack made by mixing boiled potatoes with a special dabeli masala, putting the mixture in a ladi pav (burger bun), and serving it with chutneys made from tamarind, date, garlic, red chilies and other ingredients. It is garnished with pomegranate and roasted peanuts.",
+                    "price": 20,
+                    "stars": 4,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159840/Eateria/food3_rigjvm.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 4,
+                    "name": "Delhi Box Cricket Academy",
+                    "description": "Vada pav, alternatively spelt wada pao, (listen) is a vegetarian fast food dish native to the state of Maharashtra. The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chili pepper.Although it originated as an affordable street food in Mumbai, it is now served in food stalls and restaurants across India. It is also called Bombay burger in keeping with its origins and its resemblance in physical form to a burger.",
+                    "price": 15,
+                    "stars": 5,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159843/Eateria/food4_qxhnhg.webp",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "location": "Indore",
+            "lat": 26.449923,
+            "log": 80.331871,
+            "spots": [
+                {
+                    "id": 1,
+                    "name": "Viva Sports",
+                    "description": "Flaky and crunchy fried samosa are one of the most popular street food snack in North Indian cuisine. They feature a pastry-like crust but are filled with savory potatoes and peas for a hearty, delicious snack. This step-by-step recipe guide will help you to make the flakiest, tastiest, absolutely best Punjabi Samosa or Aloo Samosa from scratch!",
+                    "price": 20,
+                    "stars": 5,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food1_axxelx.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 2,
+                    "name": "Kriket King",
+                    "description": "The most desirable pieces of chicken bathed in a spicy red paste and fried to a succulent, crispy Chicken Lollipop, is an easy win at any party.They taste as good as they look! The crunch at each bite and the tenderness at each mouthful makes you want to take one more; it is no exaggeration. It never is enough!",
+                    "price": 200,
+                    "stars": 4,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food2_mzgi8u.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 3,
+                    "name": "SAR Sports Arena",
+                    "description": "Dabeli, kutchi dabeli or double roti is a popular snack food of India, originating in the Kutch or Kachchh region of Gujarat. It is a sweet snack made by mixing boiled potatoes with a special dabeli masala, putting the mixture in a ladi pav (burger bun), and serving it with chutneys made from tamarind, date, garlic, red chilies and other ingredients. It is garnished with pomegranate and roasted peanuts.",
+                    "price": 20,
+                    "stars": 4,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159840/Eateria/food3_rigjvm.jpg",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                },
+                {
+                    "id": 4,
+                    "name": "Delhi Box Cricket Academy",
+                    "description": "Vada pav, alternatively spelt wada pao, (listen) is a vegetarian fast food dish native to the state of Maharashtra. The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chili pepper.Although it originated as an affordable street food in Mumbai, it is now served in food stalls and restaurants across India. It is also called Bombay burger in keeping with its origins and its resemblance in physical form to a burger.",
+                    "price": 15,
+                    "stars": 5,
+                    "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159843/Eateria/food4_qxhnhg.webp",
+                    "location": "Canada, British Columbia",
+                    "type_id": 2
+                }
+            ]
+        }
+    ]
 }
