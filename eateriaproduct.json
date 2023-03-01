@@ -1,14 +1,15 @@
-"total_size": 6,
+{
+    "total_size": 6,
     "type_id": 2,
     "offset": 0,
     "products": [
         {
             "id": 1,
-            "name": "Viva Sport",
+            "name": "Samosa",
             "description": "Flaky and crunchy fried samosa are one of the most popular street food snack in North Indian cuisine. They feature a pastry-like crust but are filled with savory potatoes and peas for a hearty, delicious snack. This step-by-step recipe guide will help you to make the flakiest, tastiest, absolutely best Punjabi Samosa or Aloo Samosa from scratch!",
             "price": 20,
             "stars": 5,
-            "img": "https://images.pexels.com/photos/3991976/pexels-photo-3991976.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food1_axxelx.jpg",
             "location": "Canada, British Columbia",
             "created_at": "2021-11-17 10:09:08",
             "updated_at": "2022-05-16 11:48:53",
@@ -19,41 +20,41 @@
                     "id": 1,
                     "location": "Delhi",
                     "lat": 28.6448,
-                    "log": 77.216721,
+                    "log": 77.216721
                 },
                 {
                     "id": 2,
                     "location": "Mumbai",
                     "lat": 19.07609,
-                    "log": 72.877426,
+                    "log": 72.877426
                 },
                 {
                     "id": 3,
                     "location": "Surat",
                     "lat": 0,
-                    "log": 0,
+                    "log": 0
                 },
                 {
                     "id": 4,
                     "location": "Ahmedabad",
                     "lat": 23.033863,
-                    "log": 72.585022,
+                    "log": 72.585022
                 },
                 {
                     "id": 5,
                     "location": "Indore",
                     "lat": 26.449923,
-                    "log": 80.331871,
+                    "log": 80.331871
                 }
             ]
         },
         {
             "id": 2,
-            "name": "Kriket King",
+            "name": "Chicken Lolipop",
             "description": "The most desirable pieces of chicken bathed in a spicy red paste and fried to a succulent, crispy Chicken Lollipop, is an easy win at any party.They taste as good as they look! The crunch at each bite and the tenderness at each mouthful makes you want to take one more; it is no exaggeration. It never is enough!",
             "price": 200,
             "stars": 4,
-            "img": "data:image/jpeg;base64,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",
+            "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food2_mzgi8u.jpg",
             "location": "Canada, British Columbia",
             "created_at": "2021-11-17 10:09:08",
             "updated_at": "2022-05-16 11:48:53",
@@ -64,124 +65,348 @@
                     "id": 1,
                     "location": "Delhi",
                     "lat": 28.6448,
-                    "log": 77.216721,
+                    "log": 77.216721
                 },
                 {
                     "id": 2,
                     "location": "Mumbai",
                     "lat": 19.07609,
-                    "log": 72.877426,
+                    "log": 72.877426
                 },
                 {
                     "id": 3,
                     "location": "Surat",
                     "lat": 0,
-                    "log": 0,
+                    "log": 0
                 },
                 {
                     "id": 4,
                     "location": "Ahmedabad",
                     "lat": 23.033863,
-                    "log": 72.585022,
+                    "log": 72.585022
                 },
                 {
                     "id": 5,
                     "location": "Indore",
                     "lat": 26.449923,
-                    "log": 80.331871,
+                    "log": 80.331871
                 }
             ]
         },
         {
             "id": 3,
-            "name": "Cover Drive Academy", 
+            "name": "Dabeli",
             "description": "Dabeli, kutchi dabeli or double roti is a popular snack food of India, originating in the Kutch or Kachchh region of Gujarat. It is a sweet snack made by mixing boiled potatoes with a special dabeli masala, putting the mixture in a ladi pav (burger bun), and serving it with chutneys made from tamarind, date, garlic, red chilies and other ingredients. It is garnished with pomegranate and roasted peanuts.",
             "price": 20,
             "stars": 4,
-            "img": "https://images.pexels.com/photos/12179593/pexels-photo-12179593.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159840/Eateria/food3_rigjvm.jpg",
             "location": "Canada, British Columbia",
             "created_at": "2021-11-17 10:09:08",
             "updated_at": "2022-05-16 11:48:53",
             "type_id": 2,
-            "vegNonVeg": "veg"  
+            "vegNonVeg": "veg",
+            "city": [
+                {
+                    "id": 1,
+                    "location": "Delhi",
+                    "lat": 28.6448,
+                    "log": 77.216721
+                },
+                {
+                    "id": 2,
+                    "location": "Mumbai",
+                    "lat": 19.07609,
+                    "log": 72.877426
+                },
+                {
+                    "id": 3,
+                    "location": "Surat",
+                    "lat": 0,
+                    "log": 0
+                },
+                {
+                    "id": 4,
+                    "location": "Ahmedabad",
+                    "lat": 23.033863,
+                    "log": 72.585022
+                },
+                {
+                    "id": 5,
+                    "location": "Indore",
+                    "lat": 26.449923,
+                    "log": 80.331871
+                }
+            ]
         },
         {
             "id": 4,
-            "name": "Play Hall",
+            "name": "Vadapav",
             "description": "Vada pav, alternatively spelt wada pao, (listen) is a vegetarian fast food dish native to the state of Maharashtra. The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chili pepper.Although it originated as an affordable street food in Mumbai, it is now served in food stalls and restaurants across India. It is also called Bombay burger in keeping with its origins and its resemblance in physical form to a burger.",
             "price": 15,
             "stars": 5,
-            "img": "https://images.pexels.com/photos/9735379/pexels-photo-9735379.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159843/Eateria/food4_qxhnhg.webp",
             "location": "Canada, British Columbia",
             "created_at": "2021-11-17 10:09:08",
             "updated_at": "2022-05-16 11:48:53",
             "type_id": 2,
-            "vegNonVeg": "veg"
+            "vegNonVeg": "veg",
+            "city": [
+                {
+                    "id": 1,
+                    "location": "Delhi",
+                    "lat": 28.6448,
+                    "log": 77.216721
+                },
+                {
+                    "id": 2,
+                    "location": "Mumbai",
+                    "lat": 19.07609,
+                    "log": 72.877426
+                },
+                {
+                    "id": 3,
+                    "location": "Surat",
+                    "lat": 0,
+                    "log": 0
+                },
+                {
+                    "id": 4,
+                    "location": "Ahmedabad",
+                    "lat": 23.033863,
+                    "log": 72.585022
+                },
+                {
+                    "id": 5,
+                    "location": "Indore",
+                    "lat": 26.449923,
+                    "log": 80.331871
+                }
+            ]
         },
         {
             "id": 5,
-            "name": "Crick Hero",
+            "name": "Sandwich",
             "description": "A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein bread serves as a container or wrapper for another food type.The sandwich began as a portable, convenient finger food in the Western world, though over time it has become prevalent worldwide.",
             "price": 70,
             "stars": 4,
-            "img": "https://images.pexels.com/photos/9716370/pexels-photo-9716370.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159840/Eateria/food5_gglmu8.webp",
             "location": "Canada, British Columbia",
             "created_at": "2021-11-17 10:09:08",
             "updated_at": "2022-05-16 11:48:53",
             "type_id": 2,
-            "vegNonVeg": "veg"
+            "vegNonVeg": "veg",
+            "city": [
+                {
+                    "id": 1,
+                    "location": "Delhi",
+                    "lat": 28.6448,
+                    "log": 77.216721
+                },
+                {
+                    "id": 2,
+                    "location": "Mumbai",
+                    "lat": 19.07609,
+                    "log": 72.877426
+                },
+                {
+                    "id": 3,
+                    "location": "Surat",
+                    "lat": 0,
+                    "log": 0
+                },
+                {
+                    "id": 4,
+                    "location": "Ahmedabad",
+                    "lat": 23.033863,
+                    "log": 72.585022
+                },
+                {
+                    "id": 5,
+                    "location": "Indore",
+                    "lat": 26.449923,
+                    "log": 80.331871
+                }
+            ]
         },
         {
             "id": 6,
-            "name": "Baroda Cricket Academy",
+            "name": "Burger",
             "description": "burger, is a food consisting of fillings—usually a patty of ground meat, typically beef—placed inside a sliced bun or bread roll. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chilis; condiments such as ketchup, mustard, mayonnaise, relish, or a special sauce, often a variation of Thousand Island dressing; and are frequently placed on sesame seed buns. A hamburger patty topped with cheese is called a cheeseburger.",
             "price": 50,
             "stars": 4,
-            "img": "https://images.pexels.com/photos/3448250/pexels-photo-3448250.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159840/Eateria/food6_k8oegv.webp",
             "location": "Canada, British Columbia",
             "created_at": "2021-11-17 10:09:08",
             "updated_at": "2022-05-16 11:48:53",
             "type_id": 2,
-            "vegNonVeg": "veg"
+            "vegNonVeg": "veg",
+            "city": [
+                {
+                    "id": 1,
+                    "location": "Delhi",
+                    "lat": 28.6448,
+                    "log": 77.216721
+                },
+                {
+                    "id": 2,
+                    "location": "Mumbai",
+                    "lat": 19.07609,
+                    "log": 72.877426
+                },
+                {
+                    "id": 3,
+                    "location": "Surat",
+                    "lat": 0,
+                    "log": 0
+                },
+                {
+                    "id": 4,
+                    "location": "Ahmedabad",
+                    "lat": 23.033863,
+                    "log": 72.585022
+                },
+                {
+                    "id": 5,
+                    "location": "Indore",
+                    "lat": 26.449923,
+                    "log": 80.331871
+                }
+            ]
         },
         {
             "id": 7,
-            "name": "SP Acedemy",
+            "name": "French Fries",
             "description": "French fries (North American English), chips (British English), finger chips (Indian English), french-fried potatoes, or simply fries, are batonnet or allumette-cut deep-fried potatoes of disputed origin from Belgium and France. They are prepared by cutting potatoes into even strips, drying them, and frying them, usually in a deep fryer. Pre-cut, blanched, and frozen russet potatoes are widely used, and sometimes baked in a regular or convection oven; air fryers are small convection ovens marketed for frying potatoes.",
             "price": 30,
             "stars": 5,
-            "img": "https://media.gettyimages.com/id/88776426/photo/the-view-from-the-press-box-as-england-lions-take-on-australia-during-the-friendly.jpg?s=612x612&w=0&k=20&c=npkTkiCxioCdKWV12hgRi7A3T2ljHnR7b2AThDJV-Q4=",
+            "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159840/Eateria/food7_uwfayu.jpg",
             "location": "Canada, British Columbia",
             "created_at": "2021-11-17 10:09:08",
             "updated_at": "2022-05-16 11:48:53",
             "type_id": 2,
-            "vegNonVeg": "veg"
+            "vegNonVeg": "veg",
+            "city": [
+                {
+                    "id": 1,
+                    "location": "Delhi",
+                    "lat": 28.6448,
+                    "log": 77.216721
+                },
+                {
+                    "id": 2,
+                    "location": "Mumbai",
+                    "lat": 19.07609,
+                    "log": 72.877426
+                },
+                {
+                    "id": 3,
+                    "location": "Surat",
+                    "lat": 0,
+                    "log": 0
+                },
+                {
+                    "id": 4,
+                    "location": "Ahmedabad",
+                    "lat": 23.033863,
+                    "log": 72.585022
+                },
+                {
+                    "id": 5,
+                    "location": "Indore",
+                    "lat": 26.449923,
+                    "log": 80.331871
+                }
+            ]
         },
         {
             "id": 8,
-            "name": "Delhi Box Cricket Academy",
+            "name": "Meatballs",
             "description": "A meatball is ground meat rolled into a ball, sometimes along with other ingredients, such as bread crumbs, minced onion, eggs, butter, and seasoning. Meatballs are cooked by frying, baking, steaming, or braising in sauce. There are many types of meatballs using different types of meats and spices. The term is sometimes extended to meatless versions based on vegetables or fish; the latter are also commonly known as fishballs.",
             "price": 150,
             "stars": 4,
-            "img": "https://media.istockphoto.com/id/157436651/photo/cricket-field-stadion-with-score-board.jpg?b=1&s=170667a&w=0&k=20&c=_ZFs-y1sppUsFCrSo5OJ8T_AiRZrufoAOQ2tLd2cpoM=",
+            "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159841/Eateria/food8_vvu3af.jpg",
             "location": "Canada, British Columbia",
             "created_at": "2021-11-17 10:09:08",
             "updated_at": "2022-05-16 11:48:53",
             "type_id": 2,
-            "vegNonVeg": "nonveg"
+            "vegNonVeg": "nonveg",
+            "city": [
+                {
+                    "id": 1,
+                    "location": "Delhi",
+                    "lat": 28.6448,
+                    "log": 77.216721
+                },
+                {
+                    "id": 2,
+                    "location": "Mumbai",
+                    "lat": 19.07609,
+                    "log": 72.877426
+                },
+                {
+                    "id": 3,
+                    "location": "Surat",
+                    "lat": 0,
+                    "log": 0
+                },
+                {
+                    "id": 4,
+                    "location": "Ahmedabad",
+                    "lat": 23.033863,
+                    "log": 72.585022
+                },
+                {
+                    "id": 5,
+                    "location": "Indore",
+                    "lat": 26.449923,
+                    "log": 80.331871
+                }
+            ]
         },
         {
             "id": 9,
-            "name": "SAR Sports Arena",
+            "name": "Momos",
             "description": "Momo are bite-size dumplings made with a spoonful of stuffing wrapped in dough. Momo are usually steamed, though they are sometimes fried or steam-fried. Meat or vegetables fillings becomes succulent as it produces an intensively flavored broth sealed inside the wrappers.",
             "price": 60,
             "stars": 4,
-            "img": "https://media.gettyimages.com/id/844846234/photo/jonathan-agnew-and-geoffrey-boycott-watch-from-bbc-test-match-special-commentary-box-during.jpg?s=612x612&w=0&k=20&c=0jPs3OUC6pAM9CX8cUUXl_O-rO0AF2ZiMuT6-d5sIL0=",
+            "img": "https://res.cloudinary.com/dmhpakrik/image/upload/v1665159839/Eateria/food9_rdacsq.webp",
             "location": "Canada, British Columbia",
             "created_at": "2021-11-17 10:09:08",
             "updated_at": "2022-05-16 11:48:53",
             "type_id": 2,
-            "vegNonVeg": "nonveg"
+            "vegNonVeg": "nonveg",
+            "city": [
+                {
+                    "id": 1,
+                    "location": "Delhi",
+                    "lat": 28.6448,
+                    "log": 77.216721
+                },
+                {
+                    "id": 2,
+                    "location": "Mumbai",
+                    "lat": 19.07609,
+                    "log": 72.877426
+                },
+                {
+                    "id": 3,
+                    "location": "Surat",
+                    "lat": 0,
+                    "log": 0
+                },
+                {
+                    "id": 4,
+                    "location": "Ahmedabad",
+                    "lat": 23.033863,
+                    "log": 72.585022
+                },
+                {
+                    "id": 5,
+                    "location": "Indore",
+                    "lat": 26.449923,
+                    "log": 80.331871
+                }
+            ]
         }
     ]
 }
